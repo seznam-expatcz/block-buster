@@ -11,7 +11,7 @@ spec:
     tag: 7.10.0-d6c285f
   secretRef:
     name: ghcr-auth
-  url: oci://ghcr.io/seznma-expatcz/bb-app
+  url: oci://ghcr.io/seznam-expatcz/bb-app
   verify:
     provider: cosign
     secretRef:
